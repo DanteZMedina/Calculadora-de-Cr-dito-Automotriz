@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Crédito Automotriz",
+  "description": "Calculadora instantánea de préstamos para autos en México con tabla de amortización y exportación a PDF y Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
